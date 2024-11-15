@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey Form | Shahed Annam Portfolio</title>
+    <link>http://localhost:54463/tags/survey-form/</link>
+      <atom:link href="http://localhost:54463/tags/survey-form/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survey Form</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <title>Survey Form</title>
+      <link>http://localhost:54463/tags/survey-form/</link>
+    </image>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:54463/project/surveyform/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/surveyform/</guid>
+      <description>&lt;p&gt;Developed a user-friendly survey form using HTML and CSS to collect valuable feedback. The form is designed to be easy to navigate and complete, ensuring a smooth user experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

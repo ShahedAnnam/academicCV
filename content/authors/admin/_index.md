@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shahed Annam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Shahed Anam
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shahed 
+last_name: Annam
 
 # Status emoji
 status:
@@ -20,167 +20,164 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student | Tech Enthusiast 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CSE,JU
+    url: https://juniv.edu/department/cse
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/shahed.annam.7/
+    label: facebook
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ShahedAnnam
+    label: Github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/shahed-annam-a35130308/
+    label: Linkedin
+  - icon: at-symbol
+    url: 'mailto:shahedanam2018@gmail.com'
+    label: E-mail Me
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Mobile App development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Bsc in Computer Science & Engneering
+    institution: Jahangirnagar University
+    date_start: 2022-03-23
+    date_end: 2026-06-30
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: HSC in Science
+    institution: Bogura Cantonment Public School & College
+    date_start: 2018-07-01
+    date_end: 2020-06-30
+
+  - area: SSC in Science
+    institution: Nawabganj Govt. ML. Pilot High School
+    date_start: 2022-03-23
+    date_end: 2018-04-30
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Programming Instructor
+    company_name: Coderpals
+    company_url: 'https://www.coderpals.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designing and delivering interactive coding lessons tailored for children.
+      - Encouraging creativity and logical thinking through fun and engaging projects.
+      - Providing a hands-on learning environment that nurtures problem-solving skills.
+      - Simplifying complex concepts into kid-friendly explanations.
+      - Inspiring curiosity and a passion for technology among young learners.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
     items:
+      - name: C, C++
+        description: ''
+        percent: 90
+        icon: 
       - name: Python
         description: ''
+        percent: 75
+        icon: python
+      - name: HTML & CSS
+        description: ''
+        percent: 85
+        icon: 
+      - name: Java
+        description: ''
+        percent: 70
+        icon: 
+      - name: Algorithms
+        description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        icon: 
+      - name: Data Structure
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: 
+      - name: Git & GitHub
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 90
+        icon: 
+
+
+
+  - name: Hobbies
+    color: '#007acc'
+    color_border: '#005b9a'
+    items:
+      - name: Reading Novels
         description: ''
         percent: 80
-        icon: camera
+        icon: 
+      - name: Exploring Tech World
+        description: ''
+        percent: 85
+        icon: 
+      - name: Travelling
+        description: ''
+        percent: 70
+        icon: 
+      - name: Cooking
+        description: ''
+        percent: 75
+        icon: 
+      - name: Problem Solving
+        description: ''
+        percent: 70
+        icon: 
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 70
+  - name: Hindi
+    percent: 85
+  - name: Arabic
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Free-Code-Camp Web Development Certification
+    url: https://www.freecodecamp.org/certification/ShahedAnnam/responsive-web-design
+    date: '2024-11-07'
+    awarder: Free Code Camp
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I successfully completed a comprehensive course on Responsive Web Design from FreeCodeCamp, where I developed practical skills in frontend development. Throughout the course, I gained hands-on experience with HTML,CSS, and demonstrated my ability to build projects or applications from scratch. The certification has strengthened my foundation in web development and helped me further develop problem-solving and coding skills.
+  - title: ITEE
+    url: https://bditec.gov.bd/
+    date: '2024-04-30'
+    awarder: ITEE
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I am a half passer (passed one of the two exam) in the ITEE, a national-level IT qualification examination governed by the IPA (Information-Technology Promotion Agency), Japan. The ITEE is one of the largest-scale qualification exams in Japan, with around 600,000 applicants annually. The exam is conducted twice a year, in April and October, with standardized questions across all ITPEC (Information Technology Professionals Examination Council) member countries. As a half passer, I successfully passed one section of the exam, demonstrating my proficiency in key areas of information technology.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a third-year Computer Science and Engineering student at Jahangirnagar University with a strong passion for programming and technology. My journey has been driven by a love for solving problems, learning new skills, and staying curious about innovative solutions.
+
+With expertise in C, C++, and Java, I'm currently expanding my knowledge in web development and Python, striving to create impactful and visually appealing applications.

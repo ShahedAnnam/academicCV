@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML CSS | Shahed Annam Portfolio</title>
+    <link>http://localhost:54463/tags/html-css/</link>
+      <atom:link href="http://localhost:54463/tags/html-css/index.xml" rel="self" type="application/rss+xml" />
+    <description>HTML CSS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <title>HTML CSS</title>
+      <link>http://localhost:54463/tags/html-css/</link>
+    </image>
+    
+    <item>
+      <title>Techniqal Documentation</title>
+      <link>http://localhost:54463/project/technicaldocumentation/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/technicaldocumentation/</guid>
+      <description>&lt;p&gt;Developed a comprehensive technical documentation page using HTML and CSS. The page provides clear and concise instructions, code examples, and troubleshooting tips for developers. The structure and formatting of the documentation enhance readability and user experience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:54463/project/tributepage/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/tributepage/</guid>
+      <description>&lt;p&gt;Designed a commemorative tribute page using HTML and CSS to honor a notable figure. The page showcases relevant information, images, and links, providing a comprehensive overview of the individual&amp;rsquo;s life and achievements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Your Gadget</title>
+      <link>http://localhost:54463/project/yourgadget/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/yourgadget/</guid>
+      <description>&lt;p&gt;Developed a simplified e-commerce homepage using HTML and CSS. The page is designed to showcase products, facilitate navigation, and encourage customer engagement.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

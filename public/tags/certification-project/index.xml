@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certification Project | Shahed Annam Portfolio</title>
+    <link>http://localhost:54463/tags/certification-project/</link>
+      <atom:link href="http://localhost:54463/tags/certification-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Certification Project</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <title>Certification Project</title>
+      <link>http://localhost:54463/tags/certification-project/</link>
+    </image>
+    
+    <item>
+      <title>Product Landing Page</title>
+      <link>http://localhost:54463/project/productlanding/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/productlanding/</guid>
+      <description>&lt;p&gt;This project showcases my skills in HTML and CSS to create a visually appealing and functional product landing page. I designed a user-friendly interface that highlights the key features and benefits of the product, encouraging visitors to take action. I prioritized responsive design to ensure an optimal user experience across various devices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:54463/project/surveyform/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/surveyform/</guid>
+      <description>&lt;p&gt;Developed a user-friendly survey form using HTML and CSS to collect valuable feedback. The form is designed to be easy to navigate and complete, ensuring a smooth user experience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe</title>
+      <link>http://localhost:54463/project/tic-tac-toe/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/tic-tac-toe/</guid>
+      <description>&lt;p&gt;Developed a classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game features a clean and intuitive interface, allowing players to take turns and compete against each other. The JavaScript logic implements the game rules, determines the winner, and handles the game state.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documnentation Page | Shahed Annam Portfolio</title>
+    <link>http://localhost:54463/tags/technical-documnentation-page/</link>
+      <atom:link href="http://localhost:54463/tags/technical-documnentation-page/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technical Documnentation Page</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <title>Technical Documnentation Page</title>
+      <link>http://localhost:54463/tags/technical-documnentation-page/</link>
+    </image>
+    
+    <item>
+      <title>Techniqal Documentation</title>
+      <link>http://localhost:54463/project/technicaldocumentation/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54463/project/technicaldocumentation/</guid>
+      <description>&lt;p&gt;Developed a comprehensive technical documentation page using HTML and CSS. The page provides clear and concise instructions, code examples, and troubleshooting tips for developers. The structure and formatting of the documentation enhance readability and user experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
