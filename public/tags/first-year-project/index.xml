@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First Year Project | Shahed Annam Portfolio</title>
-    <link>http://localhost:54463/tags/first-year-project/</link>
-      <atom:link href="http://localhost:54463/tags/first-year-project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ShahedAnnam/academicCV/tags/first-year-project/</link>
+      <atom:link href="http://localhost:1313/ShahedAnnam/academicCV/tags/first-year-project/index.xml" rel="self" type="application/rss+xml" />
     <description>First Year Project</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/ShahedAnnam/academicCV/media/icon_hu7729264130191091259.png</url>
       <title>First Year Project</title>
-      <link>http://localhost:54463/tags/first-year-project/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/tags/first-year-project/</link>
     </image>
     
     <item>
       <title>Hostel Management System</title>
-      <link>http://localhost:54463/project/hostelmanagement/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/hostelmanagement/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54463/project/hostelmanagement/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/hostelmanagement/</guid>
       <description>&lt;p&gt;This project was created as a part of my first-year OOP lab project. It is a console-based application developed in C++ that demonstrates Object-Oriented Programming (OOP) concepts.&lt;/p&gt;</description>
     </item>
     

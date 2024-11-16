@@ -76,7 +76,20 @@ work:
       - Encouraging creativity and logical thinking through fun and engaging projects.
       - Providing a hands-on learning environment that nurtures problem-solving skills.
       - Simplifying complex concepts into kid-friendly explanations.
-      - Inspiring curiosity and a passion for technology among young learners.
+      - Inspiring curiosity and a passion for technology among young learners. 
+  
+  - position: Volunteer
+    company_name: NCPC
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-09
+    #date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - I had the privilege of volunteering for the National Collegiate Programming Contest (NCPC), where I played a key role in managing and
+        operating a contest room. This experience allowed me to contribute to a prestigious programming competition while honing my
+        organizational and teamwork skills. Working behind the scenes to ensure a smooth contest flow gave me invaluable insights into event
+        management and the dynamic world of competitive programming.
   
 
 # Skills

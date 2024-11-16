@@ -305,7 +305,6 @@
       "md:flex",
       "md:flex-row",
       "md:flex-shrink-0",
-      "md:grid-cols-1",
       "md:grid-cols-2",
       "md:grid-cols-3",
       "md:grid-cols-[200px_auto]",
@@ -438,7 +437,6 @@
       "sm:text-lg",
       "space-x-3",
       "space-y-1",
-      "space-y-16",
       "space-y-3",
       "sticky",
       "text-1xl",
@@ -495,7 +493,6 @@
       "w-5",
       "w-6",
       "w-64",
-      "w-fit",
       "w-full",
       "xl:block",
       "xl:px-5",
@@ -511,7 +508,6 @@
       "moon",
       "nav-menu",
       "nav-toggle",
-      "news",
       "page-bg",
       "papers",
       "profile",
@@ -532,7 +528,6 @@
       "show-button",
       "site-header",
       "sun",
-      "talks",
       "top"
     ]
   }

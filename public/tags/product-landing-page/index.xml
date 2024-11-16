@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product Landing Page | Shahed Annam Portfolio</title>
-    <link>http://localhost:54463/tags/product-landing-page/</link>
-      <atom:link href="http://localhost:54463/tags/product-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ShahedAnnam/academicCV/tags/product-landing-page/</link>
+      <atom:link href="http://localhost:1313/ShahedAnnam/academicCV/tags/product-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <description>Product Landing Page</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54463/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/ShahedAnnam/academicCV/media/icon_hu7729264130191091259.png</url>
       <title>Product Landing Page</title>
-      <link>http://localhost:54463/tags/product-landing-page/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/tags/product-landing-page/</link>
     </image>
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:54463/project/productlanding/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/productlanding/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54463/project/productlanding/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/productlanding/</guid>
       <description>&lt;p&gt;This project showcases my skills in HTML and CSS to create a visually appealing and functional product landing page. I designed a user-friendly interface that highlights the key features and benefits of the product, encouraging visitors to take action. I prioritized responsive design to ensure an optimal user experience across various devices.&lt;/p&gt;</description>
     </item>
     

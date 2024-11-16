@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shahed Annam Portfolio</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ShahedAnnam/academicCV/</link>
+      <atom:link href="http://localhost:1313/ShahedAnnam/academicCV/index.xml" rel="self" type="application/rss+xml" />
     <description>Shahed Annam Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/ShahedAnnam/academicCV/media/icon_hu7729264130191091259.png</url>
       <title>Shahed Annam Portfolio</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/</link>
     </image>
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:1313/project/productlanding/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/productlanding/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/productlanding/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/productlanding/</guid>
       <description>&lt;p&gt;This project showcases my skills in HTML and CSS to create a visually appealing and functional product landing page. I designed a user-friendly interface that highlights the key features and benefits of the product, encouraging visitors to take action. I prioritized responsive design to ensure an optimal user experience across various devices.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Survey Form</title>
-      <link>http://localhost:1313/project/surveyform/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/surveyform/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/surveyform/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/surveyform/</guid>
       <description>&lt;p&gt;Developed a user-friendly survey form using HTML and CSS to collect valuable feedback. The form is designed to be easy to navigate and complete, ensuring a smooth user experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hostel Management System</title>
-      <link>http://localhost:1313/project/hostelmanagement/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/hostelmanagement/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/hostelmanagement/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/hostelmanagement/</guid>
       <description>&lt;p&gt;This project was created as a part of my first-year OOP lab project. It is a console-based application developed in C++ that demonstrates Object-Oriented Programming (OOP) concepts.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Techniqal Documentation</title>
-      <link>http://localhost:1313/project/technicaldocumentation/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/technicaldocumentation/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/technicaldocumentation/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/technicaldocumentation/</guid>
       <description>&lt;p&gt;Developed a comprehensive technical documentation page using HTML and CSS. The page provides clear and concise instructions, code examples, and troubleshooting tips for developers. The structure and formatting of the documentation enhance readability and user experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tic-Tac-Toe</title>
-      <link>http://localhost:1313/project/tic-tac-toe/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/tic-tac-toe/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tic-tac-toe/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/tic-tac-toe/</guid>
       <description>&lt;p&gt;Developed a classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game features a clean and intuitive interface, allowing players to take turns and compete against each other. The JavaScript logic implements the game rules, determines the winner, and handles the game state.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute Page</title>
-      <link>http://localhost:1313/project/tributepage/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/tributepage/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tributepage/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/tributepage/</guid>
       <description>&lt;p&gt;Designed a commemorative tribute page using HTML and CSS to honor a notable figure. The page showcases relevant information, images, and links, providing a comprehensive overview of the individual&amp;rsquo;s life and achievements.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Your Gadget</title>
-      <link>http://localhost:1313/project/yourgadget/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/project/yourgadget/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/yourgadget/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/project/yourgadget/</guid>
       <description>&lt;p&gt;Developed a simplified e-commerce homepage using HTML and CSS. The page is designed to showcase products, facilitate navigation, and encourage customer engagement.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/ShahedAnnam/academicCV/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -102,9 +102,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -123,9 +123,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/ShahedAnnam/academicCV/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/ShahedAnnam/academicCV/contact/</guid>
       <description>&lt;h1 id=&#34;-contact-me&#34;&gt;📞 &lt;strong&gt;Contact Me&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;🌟 &lt;em&gt;I’d love to hear from you! Connect with me on any of these platforms or drop me a message directly.&lt;/em&gt; 🌟&lt;/p&gt;
 &lt;hr&gt;
